@@ -2,7 +2,6 @@ from geometry import *
 from layers import *
 import json
 
-api_key = 'CS-SVwklkAHrP7k6A6Kf6vRbPQwlvJww'
 geojson_file_path = '/home/install/Downloads/2023_mini_cliped.geojson'
 
 with open(geojson_file_path, 'r') as geojson_file:
